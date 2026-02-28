@@ -44,7 +44,7 @@
 - (Optional) 고도화 제안
 
 
-### example Q/A
+### example Q/A pairs
 
 1. 
 - Q:
